@@ -12,7 +12,7 @@ const Invitacion = () => {
 
   return (
     <div className="w-full font-vintageText relative overflow-hidden bg-[#FAF3E0]">
-      <div className="fixed inset-0 -z-10 bg-[url('/img/fondo.jpg')] bg-cover bg-center"></div>
+      <div className="fixed inset-0 -z-10 bg-cover bg-center"></div>
       <div className="fixed top-4 right-4 z-50">
       </div>
       <div className="flex flex-col justify-center items-center h-screen w-full text-center bg-[url('https://res.cloudinary.com/dfschbyq2/image/upload/v1740755815/Disen%CC%83o_Elegante_gem3ut_xq0rzs.webp')] bg-cover bg-no-repeat bg-center md:bg-fixed border-b-2 border-[#D4AF37] relative">
