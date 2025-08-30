@@ -8,7 +8,7 @@ import GalleryVintage from "./GalleryVintage";
 
 const Invitacion = () => {
 
-  const targetDate = new Date("2025-12-06T13:00:00-03:00");
+  const targetDate = new Date("2025-10-24T11:30:00-03:00");
 
   return (
     <div className="w-full font-vintageText relative overflow-hidden bg-[#FAF3E0]">
